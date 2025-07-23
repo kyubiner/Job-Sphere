@@ -1,8 +1,9 @@
 import getJobs from '@/app/components/getjobs'
+import Jobs from "@/data/dummy.json"
 import { notFound } from 'next/navigation'
 
 export default async function jobsDetail({ params }) {
-    const jobs = await getJobs()
+    const jobs = Jobs
     const jobId = await Number(params?.id)
     const job = jobs.find((job) => job.id === jobId)
 

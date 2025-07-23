@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "title": "Frontend Developer",
+        "company": "PixelCraft Studio",
+        "location": "Jakarta",
+        "description": "Membangun UI modern dengan React.",
+        "img": "/img/frontend.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Backend Developer",
+        "company": "DataCore",
+        "location": "Surabaya",
+        "description": "Mengelola API dan database menggunakan Node.js.",
+        "img": "/img/backend.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Game Developer",
+        "company": "DreamPixels",
+        "location": "Bandung",
+        "description": "Membuat game interaktif berbasis Unity.",
+        "img": "/img/game.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Cybersecurity Analyst",
+        "company": "SafeNet",
+        "location": "Jakarta",
+        "description": "Menangani keamanan sistem dan jaringan.",
+        "img": "/img/cysec.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Fullstack Developer",
+        "company": "BuildIt",
+        "location": "Yogyakarta",
+        "description": "Membuat frontend dan backend untuk aplikasi web.",
+        "img": "/img/fullstack.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Software Developer",
+        "company": "LogicSoft",
+        "location": "Semarang",
+        "description": "Mengembangkan software desktop dan web.",
+        "img": "/img/software.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Programmer",
+        "company": "CodeHive",
+        "location": "Depok",
+        "description": "Menulis kode program berkualitas tinggi.",
+        "img": "/img/programer.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Web3 Developer",
+        "company": "ChainFlow",
+        "location": "Remote",
+        "description": "Membangun aplikasi terdesentralisasi dengan Solidity.",
+        "img": "/img/web3.png"
+    },
+    {
+        "id": 9,
+        "title": "Protecting the boss's child",
+        "company": "Passione",
+        "location": "Italy",
+        "description": "The team is tasked with protecting Trish Una, the daughter of Passione's boss who wishes to remain anonymous.",
+        "img": "/img/jojo.jpg"
+    }
+]

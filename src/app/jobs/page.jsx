@@ -1,8 +1,9 @@
 import MainMenuJobs from "../components/MainMenuJobs";
-import getJobs from "../components/getjobs";
+// import getJobs from "../components/getjobs";
+import Jobs from "@/data/dummy.json"
 
 export default async function main_menu() {
-    const jobs = await getJobs()
+    const jobs = Jobs
 
     return (
         <div>
