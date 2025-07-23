@@ -1,5 +1,5 @@
-import getJobs from '@/app/components/getjobs'
-import Jobs from "@/data/dummy.json"
+// import getJobs from '@/app/components/getjobs'
+import Jobs from ".././data/dummy.json"
 import { notFound } from 'next/navigation'
 
 export default async function jobsDetail({ params }) {
